@@ -1,0 +1,10 @@
+{
+  "name": "canton-deploy",
+  "description": "Deploy Daml packages to Canton Network participants (LocalNet, DevNet, TestNet, MainNet) with the canton-deploy DPM component: build, upload, vet, allocate parties, create users, run scripts, inspect the ledger.",
+  "version": "0.1.1",
+  "author": { "name": "LYNC", "url": "https://github.com/LYNC-WORLD" },
+  "homepage": "https://docs.lync.world/docs/CANTON/deploy/canton-deploy",
+  "repository": "https://github.com/LYNC-WORLD/canton-deploy",
+  "license": "Apache-2.0",
+  "keywords": ["canton", "daml", "dpm", "splice", "deploy", "dar", "validator", "web3"]
+}

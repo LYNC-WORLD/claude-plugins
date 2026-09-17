@@ -1,0 +1,18 @@
+{
+  "name": "lync",
+  "owner": { "name": "LYNC", "url": "https://github.com/LYNC-WORLD" },
+  "metadata": {
+    "description": "Claude plugins from LYNC: developer tooling for Canton Network and Daml.",
+    "homepage": "https://docs.lync.world"
+  },
+  "plugins": [
+    {
+      "name": "canton-deploy",
+      "source": "./canton-deploy",
+      "description": "Deploy Daml packages to Canton Network participants (LocalNet, DevNet, TestNet, MainNet) with the canton-deploy DPM component.",
+      "version": "0.1.1",
+      "category": "development",
+      "keywords": ["canton", "daml", "dpm", "splice", "deploy", "dar", "validator"]
+    }
+  ]
+}
